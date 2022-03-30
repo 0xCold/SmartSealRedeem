@@ -21,7 +21,7 @@
   "homepage": "https://github.com/smartseal-nfc/authentication-page#readme",
   "devDependencies": {
     "html-loader": "^2.1.2",
-    "raw-loader": "^4.0.2",
+    "raw-loader": "^4.0.2"
   },
   "dependencies": {
     "http-server": "^14.1.0",
